@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshTomatoesWebAPI", "FreshTomatoesWebAPI\FreshTomatoesWebAPI.csproj", "{BF8C4BCA-7E45-45BE-9E17-DC33099C6BF5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1790AA09-A2C7-43D9-A297-E573C17B179F} = {1790AA09-A2C7-43D9-A297-E573C17B179F}
+		{DFD169E3-F3D7-4E07-A370-34EED5BAC6BD} = {DFD169E3-F3D7-4E07-A370-34EED5BAC6BD}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshTomatoesWebAPI.Tests", "FreshTomatoesWebAPI.Tests\FreshTomatoesWebAPI.Tests.csproj", "{C387D4F4-AEA6-4122-A2E1-7FCBAC46920C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1790AA09-A2C7-43D9-A297-E573C17B179F} = {1790AA09-A2C7-43D9-A297-E573C17B179F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshTomatoes.Common", "FreshTomatoes.Common\FreshTomatoes.Common.csproj", "{25C343A9-2C32-4D9D-928D-13184F4B9F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshTomatoes.Business.Tests", "FreshTomatoes.Business.Tests\FreshTomatoes.Business.Tests.csproj", "{B0BC2CD4-D38B-454D-82B8-DB526DC0407D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1790AA09-A2C7-43D9-A297-E573C17B179F} = {1790AA09-A2C7-43D9-A297-E573C17B179F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshTomatoes.Businesss", "FreshTomatoes.Business\FreshTomatoes.Businesss.csproj", "{1790AA09-A2C7-43D9-A297-E573C17B179F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshTomatoes.DataAccess", "FreshTomatoes.DataAccess\FreshTomatoes.DataAccess.csproj", "{DFD169E3-F3D7-4E07-A370-34EED5BAC6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8C4BCA-7E45-45BE-9E17-DC33099C6BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8C4BCA-7E45-45BE-9E17-DC33099C6BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8C4BCA-7E45-45BE-9E17-DC33099C6BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8C4BCA-7E45-45BE-9E17-DC33099C6BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C387D4F4-AEA6-4122-A2E1-7FCBAC46920C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C387D4F4-AEA6-4122-A2E1-7FCBAC46920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C387D4F4-AEA6-4122-A2E1-7FCBAC46920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C387D4F4-AEA6-4122-A2E1-7FCBAC46920C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C343A9-2C32-4D9D-928D-13184F4B9F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C343A9-2C32-4D9D-928D-13184F4B9F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C343A9-2C32-4D9D-928D-13184F4B9F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C343A9-2C32-4D9D-928D-13184F4B9F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BC2CD4-D38B-454D-82B8-DB526DC0407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BC2CD4-D38B-454D-82B8-DB526DC0407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BC2CD4-D38B-454D-82B8-DB526DC0407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BC2CD4-D38B-454D-82B8-DB526DC0407D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1790AA09-A2C7-43D9-A297-E573C17B179F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1790AA09-A2C7-43D9-A297-E573C17B179F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1790AA09-A2C7-43D9-A297-E573C17B179F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1790AA09-A2C7-43D9-A297-E573C17B179F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFD169E3-F3D7-4E07-A370-34EED5BAC6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD169E3-F3D7-4E07-A370-34EED5BAC6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD169E3-F3D7-4E07-A370-34EED5BAC6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD169E3-F3D7-4E07-A370-34EED5BAC6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

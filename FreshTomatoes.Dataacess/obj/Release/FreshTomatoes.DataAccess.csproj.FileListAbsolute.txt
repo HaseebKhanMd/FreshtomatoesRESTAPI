@@ -1,0 +1,14 @@
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoesDLL\bin\Release\FreshTomatoesDLL.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoesDLL\bin\Release\FreshTomatoesDLL.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoesDLL\bin\Release\FreshTomatoes.Common.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoesDLL\bin\Release\FreshTomatoes.Common.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoesDLL\obj\Release\FreshTomatoes.DataAccess.csprojResolveAssemblyReference.cache
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoesDLL\obj\Release\FreshTomatoesDLL.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoesDLL\obj\Release\FreshTomatoesDLL.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\bin\Release\FreshTomatoes.DataAccess.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\bin\Release\FreshTomatoes.DataAccess.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\bin\Release\FreshTomatoes.Common.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\bin\Release\FreshTomatoes.Common.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\obj\Release\FreshTomatoes.DataAccess.csprojResolveAssemblyReference.cache
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\obj\Release\FreshTomatoes.DataAccess.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\obj\Release\FreshTomatoes.DataAccess.pdb

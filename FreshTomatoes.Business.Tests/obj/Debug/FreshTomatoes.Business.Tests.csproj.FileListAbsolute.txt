@@ -1,0 +1,11 @@
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.Tests.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.Tests.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Common.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.DataAccess.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Common.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.DataAccess.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.pdb

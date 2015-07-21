@@ -1,0 +1,5 @@
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\bin\Release\FreshTomatoes.Common.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\bin\Release\FreshTomatoes.Common.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\obj\Release\FreshTomatoes.Common.csprojResolveAssemblyReference.cache
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\obj\Release\FreshTomatoes.Common.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\obj\Release\FreshTomatoes.Common.pdb

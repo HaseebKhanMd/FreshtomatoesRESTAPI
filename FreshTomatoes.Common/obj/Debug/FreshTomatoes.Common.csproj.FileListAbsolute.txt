@@ -1,0 +1,4 @@
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\bin\Debug\FreshTomatoes.Common.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\bin\Debug\FreshTomatoes.Common.pdb
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\obj\Debug\FreshTomatoes.Common.dll
+C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\obj\Debug\FreshTomatoes.Common.pdb
