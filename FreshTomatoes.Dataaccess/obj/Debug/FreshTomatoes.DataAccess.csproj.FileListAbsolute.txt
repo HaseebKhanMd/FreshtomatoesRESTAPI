@@ -12,3 +12,10 @@ C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\bin\Debu
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\obj\Debug\FreshTomatoes.DataAccess.csprojResolveAssemblyReference.cache
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\obj\Debug\FreshTomatoes.DataAccess.dll
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.DataAccess\obj\Debug\FreshTomatoes.DataAccess.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.DataAccess\bin\Debug\FreshTomatoes.DataAccess.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.DataAccess\bin\Debug\FreshTomatoes.DataAccess.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.DataAccess\bin\Debug\FreshTomatoes.Common.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.DataAccess\bin\Debug\FreshTomatoes.Common.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.DataAccess\obj\Debug\FreshTomatoes.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.DataAccess\obj\Debug\FreshTomatoes.DataAccess.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.DataAccess\obj\Debug\FreshTomatoes.DataAccess.pdb

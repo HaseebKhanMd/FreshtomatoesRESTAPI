@@ -2,3 +2,8 @@ C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\bin\Debug\Fr
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\bin\Debug\FreshTomatoes.Common.pdb
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\obj\Debug\FreshTomatoes.Common.dll
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Common\obj\Debug\FreshTomatoes.Common.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Common\bin\Debug\FreshTomatoes.Common.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Common\bin\Debug\FreshTomatoes.Common.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Common\obj\Debug\FreshTomatoes.Common.csprojResolveAssemblyReference.cache
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Common\obj\Debug\FreshTomatoes.Common.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Common\obj\Debug\FreshTomatoes.Common.pdb

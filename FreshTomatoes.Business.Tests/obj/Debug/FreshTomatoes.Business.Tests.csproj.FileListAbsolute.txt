@@ -9,3 +9,14 @@ C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\bin\
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.csprojResolveAssemblyReference.cache
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.dll
 C:\Slalom\FreshTomatoesAPI\FreshTomatoesWebAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.Tests.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.Tests.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Common.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.DataAccess.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Business.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.Common.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\bin\Debug\FreshTomatoes.DataAccess.pdb
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.dll
+C:\Users\Haseeb\Documents\GitHub\FreshtomatoesRESTAPI\FreshTomatoes.Business.Tests\obj\Debug\FreshTomatoes.Business.Tests.pdb
